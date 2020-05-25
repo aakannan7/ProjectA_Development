@@ -6,6 +6,7 @@ public class NewPhones{
 		System.out.println("Oneplus");
 		System.out.println("RedMi");
 		System.out.println("Realme");
+		System.out.println("Motorola");
 		
 }
 }
